@@ -1,0 +1,23 @@
+
+This project was created a as part of the Ai Hackthon at KTH Royal Institute of Technology.
+
+Inspiration 
+
+Content creation for social media is a challenging task that requires time. Ca. 50 % of content creators spend between 1 and 10 horurs weekly creating content. 
+Part of the content creation process requires the musicalization of content. This process could be accelerated and automated by the help of Ai.
+
+
+Sumamry
+
+The tool consist on 2 parts, one that analyses pictures (media) inputed by the user,using a Deepface model the content submitted is categorized into scores that would define teh sentiment presented in the picture. 
+
+The second part consist in song suggestion mechanism that combines the score obtained to suggest songs using Spotifys API recomendation tool.  
+
+
+Team members:
+
+Fernando Vallecillos Ruiz 
+Lenka 
+Magda
+Kevin 
+Federico Ruilova 
